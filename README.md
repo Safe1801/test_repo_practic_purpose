@@ -1,1 +1,3 @@
-# test_repo_practic_purpose
+#_*Git 
+
+*This is a practice based git repository where try out different git commands
